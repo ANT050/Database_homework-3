@@ -30,7 +30,7 @@
 
 <img src="Database_homework.jpg" height=200 width="200"/>
 
-:point_right: [Связь между таблицами]( "Открыть")
+:point_right: [Связь между таблицами](https://github.com/ANT050/Database_homework-3/blob/main/Database_homework.jpg "Открыть")
 
 ---
 
