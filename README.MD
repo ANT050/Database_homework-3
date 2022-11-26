@@ -28,7 +28,7 @@
 
 ## <u>*Связь между таблицами базы данных*</u>
 
-<img src="Database_homework.jpg" height=250 width="250"/>
+<img src="Homework_Database.jpg" height=250 width="250"/>
 
 :point_right: [Связь между таблицами](https://github.com/ANT050/Database_homework-3/blob/main/Database_homework.jpg "Открыть")
 
